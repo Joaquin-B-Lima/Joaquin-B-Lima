@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Joaquin Beine de Lima
 
-🎓 Estudante de Engenharia de Software (8º período)  
+🎓 Estudante de Engenharia de Software (7º período)  
 📊 Focado em Análise de Dados e Business Intelligence  
 
 ## 🚀 Sobre mim
