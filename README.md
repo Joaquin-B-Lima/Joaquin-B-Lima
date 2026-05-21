@@ -17,8 +17,8 @@ Busco oportunidade como estagiário ou analista júnior em Dados/BI.
 
 ## 📊 Projetos em destaque
 
-🔹 [Dashboard de Vendas](link)  
-🔹 [Análise de Dados com SQL](link)  
+🔹 [Dashboard de Vendas](https://github.com/Joaquin-B-Lima/powerbi-sales-dashboard)  
+🔹 [Análise de Dados com SQL](https://github.com/Joaquin-B-Lima/sql-data-analysis)  
 🔹 [Projeto com API](link)  
 
 ## 📫 Contato
